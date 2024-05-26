@@ -1,2 +1,2 @@
-# Fati-
+# Fati
 My personal repository.
